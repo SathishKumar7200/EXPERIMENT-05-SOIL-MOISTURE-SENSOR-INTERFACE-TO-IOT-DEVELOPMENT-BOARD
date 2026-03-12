@@ -452,6 +452,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 <img width="1919" height="1183" alt="Screenshot 2026-02-23 165733" src="https://github.com/user-attachments/assets/649d1bb7-214c-46ad-8971-f81547ccb4be" />
 
+
+## Kit diagram :
+
+![soil moisture photo](https://github.com/user-attachments/assets/71ccb104-487d-4084-99c9-5f9c222f4bef)
+
+
  
 
  
